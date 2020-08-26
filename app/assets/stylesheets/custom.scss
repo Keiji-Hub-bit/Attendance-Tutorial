@@ -35,7 +35,6 @@ h1 {
   margin-bottom: 30px;
   text-align: center;
 }
-
 h2 {
   font-size: 1.2em;
   letter-spacing: -1px;
@@ -95,4 +94,10 @@ p {
   .form-control {
     color: $state-danger-text;
   }
+}
+
+/*モーダルウィンドウの位置調整*/
+
+.modal-dialog-center{
+ padding-top: 10%;
 }
